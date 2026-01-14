@@ -1,12 +1,14 @@
 # 👩🏻‍💻🎧Customer Support Performance Analytics - Power-BI
 
-1. Project Overview
+
+# 1. Project Overview
 
 This project is my first Power BI report, built as part of my internship at Luminar Technolab.
 The report focuses on analyzing customer support ticket data to understand resolution performance, ticket distribution, customer satisfaction, and priority handling.
 The objective was to convert raw support data into meaningful insights through data cleaning, modeling, and visualization using Power BI Desktop.
 
-2. Tech Stack
+
+# 2. Tech Stack
 
 List of key tools and technologies used to build this Power BI report:
 
@@ -19,7 +21,7 @@ List of key tools and technologies used to build this Power BI report:
 📁 File Formats – .pbix for report development and .png for dashboard-style preview images
 
 
-3. Data Source
+# 3. Data Source
 
 Details about where the data comes from and how it is structured:
 
@@ -29,7 +31,8 @@ Details about where the data comes from and how it is structured:
 
 🧹 Preprocessing – Data cleaning and standardization performed using Power Query before analysis
 
-4. Features / Highlights
+
+# 4. Features / Highlights
 
 🧩 Business Problem
 
@@ -79,4 +82,9 @@ The goal of this Power BI report is to:
 
 ▪ Enables data-backed decisions to optimize support operations
 
-[Customer Support Performance Dashboard]()
+
+# 5. Dashboard Demo📸 
+   
+   Power BI report showcasing customer support performance metrics and insights.
+   
+![Customer Support Performance Dashboard](https://github.com/angelmariathomas15/Customer-Support-Performance-Analytics---Power-BI/blob/main/Customer_support_dashboard.png)
